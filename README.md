@@ -19,3 +19,7 @@ This is a badminton analysis and detection project based on YOLO. The project is
 - the training on the dataset is not properly enough need to be fix  
 - choose player need to be improved
 
+## Pretrained Model
+you can get pretrained model about balls(based on yolo5) from this link
+best:https://drive.google.com/file/d/10UPkLCntBz5UTIfqIQ3oSPeVGSXLF4yg/view?usp=sharing
+last:https://drive.google.com/file/d/1V0R-2RUyxnlRdQogXr3BeMIxfmc5LF_c/view?usp=sharing
