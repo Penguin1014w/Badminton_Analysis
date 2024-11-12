@@ -1,7 +1,7 @@
 # Badminton Analysis Project  
 
 ### Detection Example  
-![Sample Output](images.png)
+![Sample Output](image.png)
 
 ## Introduction  
 This is a badminton analysis and detection project based on YOLO. The project is still under development, and some bugs remain unresolved.  
