@@ -1,7 +1,7 @@
 # Badminton Analysis Project  
 
 ### Detection Example  
-<img src="image.png" alt="Sample Output" width="200"/>
+<img src="image.png" alt="Sample Output" width="400"/>
 
 
 ## Introduction  
