@@ -1,4 +1,4 @@
-# Badminton Analysis Project  
+# Badminton Analysis Demo
 
 ### Detection Example  
 <img src="image.png" alt="Sample Output" width="400"/>
